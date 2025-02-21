@@ -1,0 +1,1 @@
+console.log("Testing to add all folders at once.");
